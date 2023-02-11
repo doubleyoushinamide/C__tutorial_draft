@@ -11,6 +11,8 @@
     printf("|...../\n");
     printf("|..../\n");
 
+    if();
+
 
     return 0;
 
