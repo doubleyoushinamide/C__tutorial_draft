@@ -7,6 +7,7 @@ int main()
 {
     
     printf("I love you Jesus\n");
+    printf()
     printf("I like food but I pray at all times\n");
     
     int x = 123;
