@@ -7,5 +7,10 @@
 
 void reset_to_98(int *n)
 {
-*n = 98;
+  int new = 98;
+  int *ptr;
+  
+  ptr = new;
+  
+  printf("Your identity ahas been reset to %i:\n", *p);
 }
