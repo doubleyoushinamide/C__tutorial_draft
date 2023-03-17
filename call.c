@@ -2,7 +2,9 @@
 // This could also be a comment or a way to render a line silent
 
 #include <stdio.h>
-
+/**
+This is a beginner or freshier class I used to teach elementary kids C-programming
+*/
 int main()
 {
 
